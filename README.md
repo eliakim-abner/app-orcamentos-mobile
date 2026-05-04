@@ -117,36 +117,6 @@ Durante o desenvolvimento, foi utilizado **ngrok** para expor a API:
 http://localhost:8080 → URL pública (ngrok)
 
 
----
-
-## 📸 Demonstração
-
-* Miro - Plataforma usada para Organização do Projeto
-<p align="center">
-  <img src="images-app/Ana-Otica Boards.jpg" width="250"/>
-  
-</p>
-
-
-
-* App exibindo lista
-<p align="center">
-  <img src="images-app/lista-app.jpg" width="250"/>
-  <img src="images-app/app-orcamento.jpg" width="250"/>
-  <img src="images-app/expo-app.jpg" width="250">
-</p>
-
-
-* Fluxo no Make
-<p align="center">
-  <img src="images-app/Fluxo_Webhooks_HTTP.png" width="250"/>
-  </p>
-
-* Fluxo Atendimento e Cadastro oelo Typebot
-<p align="center">
-  <img src="images-app/Fluxo-TypeBot.jpg" width="250"/>
-  </p>
----
 
 ## 🧠 Decisões de Arquitetura
 
